@@ -2,10 +2,10 @@
 
 ### 🌐 IT Professional.
 🌱 Currently Specilizing in Back-end Engineering and Systems Automation.
-⚡️ Linux Enthusiast 
+⚡️ Linux Enthusiast.
 
-* **[Skill in Development]**
-  * [Security Engineering]
+* **Skill in Development**
+  * Security Engineering
 
 
 <!--
