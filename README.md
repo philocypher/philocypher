@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-<img src="cy.jpeg" alt="Cyberpunk Background" width="100%">
+<img src="cy.jpg" alt="Cyberpunk Background" width="100%">
 </div>
 
 # 🌐 CyberNomad
