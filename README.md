@@ -6,22 +6,6 @@
 # 🌐 CyberNomad
 
 **A digital drifter navigating the neon-lit labyrinth of the digital world.**
-
-**Skills:**
-* Python
-* JavaScript
-* React
-* Node.js
-* Git
-
-**Projects:**
-* **[Project 1 Name]** - *Brief description*
-* **[Project 2 Name]** - *Brief description*
-
-**Let's connect!**
-* **Email:** [your_email@example.com]
-* **LinkedIn:** [your_linkedin_profile]
-* **Twitter:** [your_twitter_handle]
 <!--
 **philocypher/philocypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
