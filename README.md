@@ -6,13 +6,7 @@
 * **[Skill in Development]**
   * [Security Engineering]
 
-<div align="center">
-<img src="cy.png" alt="Cyberpunk Background" width="100%">
-</div>
 
-
-
-**A digital drifter navigating the neon-lit labyrinth of the digital world.**
 <!--
 **philocypher/philocypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
