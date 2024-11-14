@@ -5,8 +5,8 @@
 ⚡️ Linux Enthusiast.
 
 */**Interests**/
-  /Security Engineering.
-  /Cloud.
+  */Security Engineering.
+  */Cloud.
 <!--
 **philocypher/philocypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
