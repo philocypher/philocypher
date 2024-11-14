@@ -4,10 +4,10 @@
 🌱 Currently Specializing in Back-end Engineering and Systems Automation.
 ⚡️ Linux Enthusiast.
 
-* / **Interests**/
+* **Interests**
   
-  * /Security Engineering.
-  * /Cloud.
+  - Security Engineering.
+  - Cloud.
 <!--
 **philocypher/philocypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
