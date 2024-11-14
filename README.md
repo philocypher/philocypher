@@ -5,7 +5,6 @@
 ⚡️ Linux Enthusiast.
 
 * **Interests**
-  
   - Security Engineering.
   - Cloud.
 <!--
